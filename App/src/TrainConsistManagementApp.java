@@ -33,6 +33,6 @@ public class TrainConsistManagementApp {
         System.out.println("\nFinal Ordered Train Consist:");
         System.out.println(train);
 
-        System.out.println("\nUC4 operations completed successfully...");
+        System.out.println("\nUC4 operations completed successfully....");
     }
 }
